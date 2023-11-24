@@ -1,0 +1,6 @@
+#
+# vendor props for lge flashlm
+#
+
+# LGE Misc
+ro.vendor.lge.swversion=V45020a
